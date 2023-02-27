@@ -1,0 +1,200 @@
+IP                   : 173.252.127.111
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Menlo Park, United States, North America
+GeoLocation(lat, lon): 37.4529598, -122.1817252
+Currency             : US Dollar
+
+IP                   : 173.252.127.24
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Menlo Park, United States, North America
+GeoLocation(lat, lon): 37.4529598, -122.1817252
+Currency             : US Dollar
+
+IP                   : 46.2.149.9
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 13; SM-A515F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.117 Mobile Safari/537.36 Instagram 271.0.0.0.80 Android (33/13; 450dpi; 1080x2270; samsung; SM-A515F; a51; exynos9611; tr_TR; 447215928)
+Version              : 13;
+Browser              : Handheld Browser
+Location             : Gaziantep, Turkey, Asia
+GeoLocation(lat, lon): 37.065953, 37.37811
+Currency             : Turkish Lira
+
+IP                   : 46.2.149.9
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; SM-T507) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+Version              : 12;
+Browser              : Chrome
+Location             : Gaziantep, Turkey, Asia
+GeoLocation(lat, lon): 37.065953, 37.37811
+Currency             : Turkish Lira
+
+IP                   : 46.2.149.9
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; SM-T507) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+Version              : 12;
+Browser              : Chrome
+Location             : Gaziantep, Turkey, Asia
+GeoLocation(lat, lon): 37.065953, 37.37811
+Currency             : Turkish Lira
+
+IP                   : 212.253.172.151
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; M2004J19C Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.117 Mobile Safari/537.36 Instagram 270.0.0.23.82 Android (31/12; 440dpi; 1080x2134; Xiaomi/Redmi; M2004J19C; lancelot; mt6768; tr_TR; 446608655)
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Yüreğir, Turkey, Asia
+GeoLocation(lat, lon): 36.9075903, 35.4343604
+Currency             : Turkish Lira
+
+IP                   : 212.253.172.151
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; M2004J19C Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.117 Mobile Safari/537.36 Instagram 270.0.0.23.82 Android (31/12; 440dpi; 1080x2134; Xiaomi/Redmi; M2004J19C; lancelot; mt6768; tr_TR; 446608655)
+Version              : 12;
+Browser              : Handheld Browser
+Location             : Yüreğir, Turkey, Asia
+GeoLocation(lat, lon): 36.9075903, 35.4343604
+Currency             : Turkish Lira
+
+IP                   : 78.166.173.216
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; SM-T507 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.5414.118 Safari/537.36 Instagram 270.0.0.23.82 Android (31/12; 240dpi; 1200x1928; samsung; SM-T507; gta4l; qcom; tr_TR; 446608650)
+Version              : 12;
+Browser              : Chrome
+Location             : Gaziantep, Turkey, Asia
+GeoLocation(lat, lon): 37.065953, 37.37811
+Currency             : Turkish Lira
+
+IP                   : 149.140.241.61
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; A23) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Şişli Köyü, Turkey, Asia
+GeoLocation(lat, lon): 38.102223, 42.7561449
+Currency             : Turkish Lira
+
+IP                   : 149.140.241.61
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; A23) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Şişli Köyü, Turkey, Asia
+GeoLocation(lat, lon): 38.102223, 42.7561449
+Currency             : Turkish Lira
+
+IP                   : 212.154.30.36
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; Redmi Note 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Istanbul, Turkey, Asia
+GeoLocation(lat, lon): 41.0082376, 28.9783589
+Currency             : Turkish Lira
+
+IP                   : 149.140.241.61
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; A23) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Şişli Köyü, Turkey, Asia
+GeoLocation(lat, lon): 38.102223, 42.7561449
+Currency             : Turkish Lira
+
+IP                   : 149.154.161.221
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : TelegramBot (like TwitterBot)
+Version              : 
+Browser              : Unknown Browser
+Location             : Warrington, United Kingdom, Europe
+GeoLocation(lat, lon): 53.3900441, -2.5969501
+Currency             : British Pound Sterling
+
+IP                   : 46.1.49.28
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Kağıthane, Turkey, Asia
+GeoLocation(lat, lon): 41.0814028, 28.9819731
+Currency             : Turkish Lira
+
+IP                   : 176.235.75.4
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Kartal, Turkey, Asia
+GeoLocation(lat, lon): 40.899651, 29.193649
+Currency             : Turkish Lira
+
+IP                   : 46.1.49.28
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Kağıthane, Turkey, Asia
+GeoLocation(lat, lon): 41.0814028, 28.9819731
+Currency             : Turkish Lira
+
+IP                   : 46.2.150.154
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; SM-T507) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+Version              : 12;
+Browser              : Chrome
+Location             : Mezitli, Turkey, Asia
+GeoLocation(lat, lon): 36.8573692, 34.3976356
+Currency             : Turkish Lira
+
+IP                   : 149.154.161.250
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : TelegramBot (like TwitterBot)
+Version              : 
+Browser              : Unknown Browser
+Location             : Warrington, United Kingdom, Europe
+GeoLocation(lat, lon): 53.3900441, -2.5969501
+Currency             : British Pound Sterling
+
+IP                   : 46.2.150.154
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12; SM-T507) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+Version              : 12;
+Browser              : Chrome
+Location             : Mezitli, Turkey, Asia
+GeoLocation(lat, lon): 36.8573692, 34.3976356
+Currency             : Turkish Lira
+
+IP                   : 93.115.28.181
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Šiauliai, Republic of Lithuania, Europe
+GeoLocation(lat, lon): 55.9339151, 23.3155824
+Currency             : Euro
+
